@@ -9,3 +9,6 @@
 
 you can use http://127.0.0.1:5000/Register  on postman  to register username and password
 and  http://127.0.0.1:5000/auth to get a autherization key for further use
+
+
+For heroku server deployed app visit on postman https://household-api-first.herokuapp.com/
