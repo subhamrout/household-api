@@ -2,7 +2,7 @@ Problem Statement:- The project is about developing a household api which stores
 and and relevant tasks can be performed on assets,like,Kitchen and corresponding task: cleaning the kitchen, 
 mopping the floor etc.,and worker_id:"1ser3". The workers have a unique worker id , so the system should organize 
 the assets' information, the worker details and list of all tasks available, and assign them accordingly to the 
-worker with a deadline. Thus building an efficient household management system.
+worker with a deadline. Thus building an efficient household management system .
 
 
 
